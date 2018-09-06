@@ -12,11 +12,17 @@ public class SolutionBoot22 {
      *      1. 两个指针，pre和p
      *      2. p指向第k个节点的时候，pre指向头节点
      *      3. 同时后移，当p指向尾节点的时候，pre刚好指向头节点
+     * 鲁棒性：
+     *      1. 输入空指针
+     *      2. 输入的k大于链表的长度
+     *      3. 输入的参数k为0
      * */
     public t22ListNode findKthToTail(t22ListNode head, int k){
+        if (head == null || k == 0)//这里没有考虑到
+            return null;
         t22ListNode p=head;
         //判断，如果k大于链表的长度，返回null
-        for (int i=0; i<k; i++){
+        for (int i=0; i<k-1; i++){
             if (p.next != null){
                 p = p.next;
             } else { //说明k的大于链表的长度
