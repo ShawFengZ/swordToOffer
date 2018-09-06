@@ -3,6 +3,7 @@ import book.t11_rotateArray.SolutionBook11;
 import book.t12_pathInMatrix.SolutionBook12;
 import book.t13_robotMoveArea.SolutionBook13;
 import book.t14_cutRope.SolutionBook14;
+import book.t21_ReorderOddEven.SolutionBoot21;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -308,8 +309,8 @@ public class Main {
         //14. 测试剪绳子，动态规划
         /*int maxProductAfterCutting = SolutionBook14.maxProductAfterCutting(8);
         System.out.println("最大长度："+maxProductAfterCutting);*/
-        String num1 = "11111111112222222222222222222223333333333333333333333333454444455555555555555";
-        String num2 = "12111111111111111111111111111111111111145454545454545454545454545454555454454";
+//        String num1 = "11111111112222222222222222222223333333333333333333333333454444455555555555555";
+//        String num2 = "12111111111111111111111111111111111111145454545454545454545454545454555454454";
 //        BigInteger b1 = new BigInteger(num1);
 //        BigInteger b2 = new BigInteger(num2);
 //        //大整数加法
@@ -321,7 +322,14 @@ public class Main {
 //        //大数除法
 //        System.out.println("大数除法：" + b1.divide(b2));
 
-        String s = BigStringASMD.castSame(num1, 100);
-        System.out.println(s);
+        /*String s = BigStringASMD.castSame(num1, 100);
+        System.out.println(s);*/
+
+        //21. 测试
+        int[] arr = {1,2,3,4,5,6,7,8,9,10};
+        int[] reorderOddEven = SolutionBoot21.reorderOddEven(arr);
+        for (int i: reorderOddEven){
+            System.out.print(i+" ");
+        }
     }
 }
