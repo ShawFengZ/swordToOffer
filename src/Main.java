@@ -7,6 +7,7 @@ import book.t21_ReorderOddEven.SolutionBoot21;
 import book.t31_isPopOrder.SolutionBook31;
 import book.t32_printFromTopToBottom.SolutionBook32;
 import book.t32_printFromTopToBottom.SolutionBook32_2;
+import book.t32_printFromTopToBottom.SolutionBook32_3;
 import book.t32_printFromTopToBottom.T32BinaryTreeNode;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
@@ -357,6 +358,8 @@ public class Main {
         //1. 测试，不分层打印
         //SolutionBook32.printFromTopToBottom(root);
         //2. 测试，分层打印
-        SolutionBook32_2.printFromTopToBottomInlevel(root);
+        //SolutionBook32_2.printFromTopToBottomInlevel(root);
+        //3. 测试，之字形打印
+        SolutionBook32_3.printFromTopToBottom(root);
     }
 }
