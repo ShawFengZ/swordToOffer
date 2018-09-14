@@ -9,6 +9,7 @@ import book.t32_printFromTopToBottom.SolutionBook32;
 import book.t32_printFromTopToBottom.SolutionBook32_2;
 import book.t32_printFromTopToBottom.SolutionBook32_3;
 import book.t32_printFromTopToBottom.T32BinaryTreeNode;
+import book.t33_verifySequenceOfBST.SolutionBook33;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -360,6 +361,12 @@ public class Main {
         //2. 测试，分层打印
         //SolutionBook32_2.printFromTopToBottomInlevel(root);
         //3. 测试，之字形打印
-        SolutionBook32_3.printFromTopToBottom(root);
+        //SolutionBook32_3.printFromTopToBottom(root);
+
+        //33. 二叉搜索树后序遍历序列测试
+        int[] arr = {5, 7, 6, 9, 11, 10, 8};
+        int[] arr2 = {7, 4, 6, 5};
+        System.out.println(SolutionBook33.verifySequenceOfBST(arr, arr.length));
+        System.out.println(SolutionBook33.verifySequenceOfBST(arr2, arr2.length));
     }
 }
