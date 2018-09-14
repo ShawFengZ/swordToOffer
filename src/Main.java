@@ -4,6 +4,10 @@ import book.t12_pathInMatrix.SolutionBook12;
 import book.t13_robotMoveArea.SolutionBook13;
 import book.t14_cutRope.SolutionBook14;
 import book.t21_ReorderOddEven.SolutionBoot21;
+import book.t31_isPopOrder.SolutionBook31;
+import book.t32_printFromTopToBottom.SolutionBook32;
+import book.t32_printFromTopToBottom.SolutionBook32_2;
+import book.t32_printFromTopToBottom.T32BinaryTreeNode;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -326,10 +330,33 @@ public class Main {
         System.out.println(s);*/
 
         //21. 测试
-        int[] arr = {1,2,3,4,5,6,7,8,9,10};
+        /*int[] arr = {1,2,3,4,5,6,7,8,9,10};
         int[] reorderOddEven = SolutionBoot21.reorderOddEven(arr);
         for (int i: reorderOddEven){
             System.out.print(i+" ");
-        }
+        }*/
+
+        //31. 栈的压入弹出序列测试
+        /*int[] num1 = {1, 2, 3, 4, 5};
+        int[] num2 = {4, 5, 3, 2, 1};
+        int[] num3 = {4, 3, 5, 1, 2};
+        //System.out.println(SolutionBook31.isPopOrder(num1, num2));
+        System.out.println(SolutionBook31.isPopOrder(num1, num3));*/
+
+        //32. 从上到下打印二叉树测试
+        //子节点
+        T32BinaryTreeNode leaf1 = new T32BinaryTreeNode(4, null, null);
+        T32BinaryTreeNode leaf2 = new T32BinaryTreeNode(5, null, null);
+        T32BinaryTreeNode leaf3 = new T32BinaryTreeNode(6, null, null);
+        T32BinaryTreeNode leaf4 = new T32BinaryTreeNode(7, null, null);
+        //中间节点
+        T32BinaryTreeNode mid1 = new T32BinaryTreeNode(2, leaf1, leaf2);
+        T32BinaryTreeNode mid2 = new T32BinaryTreeNode(3, leaf3, leaf4);
+        //根节点
+        T32BinaryTreeNode root = new T32BinaryTreeNode(1, mid1, mid2);
+        //1. 测试，不分层打印
+        //SolutionBook32.printFromTopToBottom(root);
+        //2. 测试，分层打印
+        SolutionBook32_2.printFromTopToBottomInlevel(root);
     }
 }
