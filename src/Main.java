@@ -364,9 +364,10 @@ public class Main {
         //SolutionBook32_3.printFromTopToBottom(root);
 
         //33. 二叉搜索树后序遍历序列测试
-        int[] arr = {5, 7, 6, 9, 11, 10, 8};
+        /*int[] arr = {5, 7, 6, 9, 11, 10, 8};
         int[] arr2 = {7, 4, 6, 5};
         System.out.println(SolutionBook33.verifySequenceOfBST(arr, arr.length));
-        System.out.println(SolutionBook33.verifySequenceOfBST(arr2, arr2.length));
+        System.out.println(SolutionBook33.verifySequenceOfBST(arr2, arr2.length));*/
+
     }
 }
