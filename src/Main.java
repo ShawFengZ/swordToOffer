@@ -10,6 +10,7 @@ import book.t32_printFromTopToBottom.SolutionBook32_2;
 import book.t32_printFromTopToBottom.SolutionBook32_3;
 import book.t32_printFromTopToBottom.T32BinaryTreeNode;
 import book.t33_verifySequenceOfBST.SolutionBook33;
+import book.t39_moreThanHalfNum.SolutionBook39;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -347,7 +348,7 @@ public class Main {
 
         //32. 从上到下打印二叉树测试
         //子节点
-        T32BinaryTreeNode leaf1 = new T32BinaryTreeNode(4, null, null);
+        /*T32BinaryTreeNode leaf1 = new T32BinaryTreeNode(4, null, null);
         T32BinaryTreeNode leaf2 = new T32BinaryTreeNode(5, null, null);
         T32BinaryTreeNode leaf3 = new T32BinaryTreeNode(6, null, null);
         T32BinaryTreeNode leaf4 = new T32BinaryTreeNode(7, null, null);
@@ -355,7 +356,7 @@ public class Main {
         T32BinaryTreeNode mid1 = new T32BinaryTreeNode(2, leaf1, leaf2);
         T32BinaryTreeNode mid2 = new T32BinaryTreeNode(3, leaf3, leaf4);
         //根节点
-        T32BinaryTreeNode root = new T32BinaryTreeNode(1, mid1, mid2);
+        T32BinaryTreeNode root = new T32BinaryTreeNode(1, mid1, mid2);*/
         //1. 测试，不分层打印
         //SolutionBook32.printFromTopToBottom(root);
         //2. 测试，分层打印
@@ -369,5 +370,10 @@ public class Main {
         System.out.println(SolutionBook33.verifySequenceOfBST(arr, arr.length));
         System.out.println(SolutionBook33.verifySequenceOfBST(arr2, arr2.length));*/
 
+        //39. 数组中出现次数超过一半的数字
+        int[] num = {1, 3, 2, 3, 2, 2, 5, 2, 2};
+        SolutionBook39 solutionBook39 = new SolutionBook39();
+        System.out.println(solutionBook39.moreThanHalfNum(num));
+        System.out.println(solutionBook39.moreThanHalfNum2(num));
     }
 }
