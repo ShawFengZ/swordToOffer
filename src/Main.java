@@ -20,6 +20,7 @@ import category.sort_common.SortMethod;
 import category.sort_common.SortUtils;
 import category.tree_common.*;
 
+import java.io.File;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.text.SimpleDateFormat;
@@ -371,9 +372,11 @@ public class Main {
         System.out.println(SolutionBook33.verifySequenceOfBST(arr2, arr2.length));*/
 
         //39. 数组中出现次数超过一半的数字
-        int[] num = {1, 3, 2, 3, 2, 2, 5, 2, 2};
+        /*int[] num = {1, 3, 2, 3, 2, 2, 5, 2, 2};
         SolutionBook39 solutionBook39 = new SolutionBook39();
         System.out.println(solutionBook39.moreThanHalfNum(num));
-        System.out.println(solutionBook39.moreThanHalfNum2(num));
+        System.out.println(solutionBook39.moreThanHalfNum2(num));*/
+
+        System.out.println(System.getProperty("os.name"));
     }
 }
