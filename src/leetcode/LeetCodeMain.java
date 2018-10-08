@@ -1,10 +1,7 @@
 package leetcode;
 
-import leetcode.t01_twoSum.Solution01;
 import leetcode.t03_LogestSubstring.Solution03;
-import leetcode.t2_addTwoNumbers.ListNode02;
-import leetcode.t2_addTwoNumbers.Solution2;
-import t16_mergeList.ListNode;
+import leetcode.t04_medianOf.Solution04;
 
 /**
  * @author zxf
@@ -37,8 +34,19 @@ public class LeetCodeMain {
         System.out.println(l3.val+","+l3.next.val);*/
 
         //03. 最长子串的数
-        String s = "abcaaaa";
+        /*String s = "abcaaaa";
         int length = Solution03.lengthOfLongestSubstring(s);
-        System.out.println(length);
+        System.out.println(length);*/
+
+        //04. 两个排序数列的中位数
+        /*int[] nums1 = {1, 3};
+        int[] nums2 = {2};
+        double medianSortedArrays = Solution04.findMedianSortedArrays(nums1, nums2);
+        System.out.println(medianSortedArrays);*/
+
+        int[] nums3 = {1, 2};
+        int[] nums4 = {3, 4};
+        double medianSortedArrays1 = Solution04.findMedianSortedArrays(nums3, nums4);
+        System.out.println(medianSortedArrays1);
     }
 }

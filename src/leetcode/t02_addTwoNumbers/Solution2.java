@@ -1,6 +1,4 @@
-package leetcode.t2_addTwoNumbers;
-
-import t16_mergeList.ListNode;
+package leetcode.t02_addTwoNumbers;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package leetcode.t2_addTwoNumbers;
+package leetcode.t02_addTwoNumbers;
 
 /**
  * @author zxf

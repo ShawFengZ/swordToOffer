@@ -11,6 +11,7 @@ import book.t32_printFromTopToBottom.SolutionBook32_3;
 import book.t32_printFromTopToBottom.T32BinaryTreeNode;
 import book.t33_verifySequenceOfBST.SolutionBook33;
 import book.t39_moreThanHalfNum.SolutionBook39;
+import book.t40_getLeastNumbers.SolutionBook40;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -377,6 +378,10 @@ public class Main {
         System.out.println(solutionBook39.moreThanHalfNum(num));
         System.out.println(solutionBook39.moreThanHalfNum2(num));*/
 
-        System.out.println(System.getProperty("os.name"));
+        /*System.out.println(System.getProperty("os.name"));*/
+
+        //40. 数组中的最小的k个数
+        int[] arr = {1,2,7,8,9,3,4,5,6};
+        SolutionBook40.getLeastNumbers(arr, 3);
     }
 }
