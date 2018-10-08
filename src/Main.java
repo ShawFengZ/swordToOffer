@@ -12,6 +12,7 @@ import book.t32_printFromTopToBottom.T32BinaryTreeNode;
 import book.t33_verifySequenceOfBST.SolutionBook33;
 import book.t39_moreThanHalfNum.SolutionBook39;
 import book.t40_getLeastNumbers.SolutionBook40;
+import book.t42_maxSumOfArray.SolutionBook42;
 import book.t6_reversePrintList.SolutionBook6;
 import book.t7_rebuildBinaryTree.SolutionBook7;
 import book.t8_nextNodeOfInOreder.Node;
@@ -381,7 +382,12 @@ public class Main {
         /*System.out.println(System.getProperty("os.name"));*/
 
         //40. 数组中的最小的k个数
-        int[] arr = {1,2,7,8,9,3,4,5,6};
-        SolutionBook40.getLeastNumbers(arr, 3);
+        /*int[] arr = {1,2,7,8,9,3,4,5,6};
+        SolutionBook40.getLeastNumbers(arr, 3);*/
+
+        //42. 连续子数组的最大和
+        int[] arr = {1, -2, 3, 10, -4, 7, 2, -5};
+        int greatestSumOfSubArray = SolutionBook42.findGreatestSumOfSubArray(arr);
+        System.out.println(greatestSumOfSubArray);
     }
 }
