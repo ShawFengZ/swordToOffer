@@ -15,7 +15,7 @@ public class Solution30 {
      * 思路：
      *      1. 遍历字符串s, 取出字符串，到字符串数组中比较
      *      2. 如果找到了，则进行下一步查找，没找到则继续
-     *      以上解法总是出现各种问题。
+     *      以上解法会超出处理时间。
      * */
     public static List<Integer> findSubstring(String s, String[] words) {
         List<Integer> list = new ArrayList<>();
@@ -52,8 +52,8 @@ public class Solution30 {
             if (temp.equals(words[i]) && !nums.contains(i)) {
                 nums.add(i);
                 flag = isInArray(s, index+wordLength, wordLength, words, nums);
-                if (flag)
-                    break;
+                //if (flag)
+                break;
             } else {
                 flag = false;
             }

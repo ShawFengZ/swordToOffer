@@ -1,14 +1,13 @@
 package leetcode;
 
-import leetcode.t20_ValidParentheses.solution20;
-import leetcode.t22_GenerateParentheses.Solution22;
-import leetcode.t26_RemoveDuplicatesFromSortedArray.Solution26;
-import leetcode.t27_removeElement.Solution27;
-import leetcode.t28_ImplementStrStr.Solution28;
-import leetcode.t30_SubStringWithConcatenation.Solution30;
-import t29_getLeastNumbers.Solution29;
+import leetcode.t38_CountAndSay.Solution38;
+import leetcode.t41_FirstMissingPositive.Solution41;
+import leetcode.t42_TrappingRainWater.Solution42;
+import leetcode.t43_MultiplyStrings.Solution43;
+import leetcode.t49_GroupAnagrams.Solution49;
 import t6_minNumberInRotateArray.Solution;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -153,15 +152,108 @@ public class LeetCodeMain {
         System.out.println(divide);*/
 
         //30. Substring with Concatenation of All Words"barfoothefoobarman";//{"foo","bar"};//
-        String s = "wordgoodgoodgoodbestword";
-        String[] words = {"word","good","best","best"};
+        /*String s = "wordgoodgoodgoodbestword";
+        String[] words = {"word","good","best","good"};*/
 
-        String s1 = "a";
-        String[] words1 = {"a"};
+        /*String s1 = "abababab";
+        String[] words1 = {"a", "b", "a"};*/
         /*List<Integer> substring = Solution30.findSubstring(s, words);
         System.out.println(substring.toString());
 */
-        List<Integer> subString1 = Solution30.findSubstring(s1, words1);
-        System.out.println(subString1.toString());
+        /*List<Integer> subString1 = Solution30.findSubstring(s, words);
+        System.out.println(subString1.toString());*/
+
+        //31. 测试反转数组先
+        /*int[] nums = {1,2,7,4,3,1};
+        //int[] reverseArray = Solution31.reverseArray(nums, 2, nums.length - 1);
+        Solution31.nextPermutation(nums);*/
+
+        //32. Search in Rotated Sorted Array
+        /*int[] nums = {3,1};
+        int search = Solution33.search(nums, 1);
+        System.out.println(search);*/
+
+        //34. Find First and Last Position of Element in Sorted Array
+        /*int[] nums = {7,7,7,8,8,10};
+        int[] searchRange = Solution34.searchRange(nums, 4);
+        System.out.println(searchRange[0]+" "+searchRange[1]);*/
+
+        //35.Search Insert Position
+        /*int[] nums = {1,3,5,6};
+        int insert = Solution35.searchInsert(nums, 0);
+        System.out.println(insert);*/
+
+        //36. Valid Sudoku
+        /*char[][] board = {{'5','3','.' ,'.','7','.','.','.','.'}
+                            ,{'6','.','.','1','9','5','.','.','.'}
+                            ,{'.','9','8','.','.','.','.','6','.'}
+                            ,{'8','.','.','.','6','.','.','.','3'}
+                            ,{'4','.','.','8','.','3','.','.','1'}
+                            ,{'7','.','.','.','2','.','.','.','6'}
+                            ,{'.','6','.','.','.','.','2','8','.'}
+                            ,{'.','.','.','4','1','9','.','.','5'}
+                            ,{'.','.','.','.','8','.','.','7','9'}};
+
+        char[][] board2 = {{'8','3','.','.','7','.','.','.','.'},
+                            {'6','.','.','1','9','5','.','.','.'},
+                            {'.','9','8','.','.','.','.','6','.'},
+                            {'8','.','.','.','6','.','.','.','3'},
+                            {'4','.','.','8','.','3','.','.','1'},
+                            {'7','.','.','.','2','.','.','.','6'},
+                            {'.','6','.','.','.','.','2','8','.'},
+                            {'.','.','.','4','1','9','.','.','5'},
+                            {'.','.','.','.','8','.','.','7','9'}};
+        char[][] board3={{'.','.','.','.','.','.','.','1','.'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','1'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','.'},
+                {'.','.','.','.','.','.','.','.','.'}};
+        boolean validSudoku = Solution38.isValidSudoku(board3);
+        System.out.println(validSudoku);*/
+
+        //38. public String countAndSay
+        //测试countAndSay
+        /*String s = Solution38.countAndSay(6);
+        System.out.println(s);*/
+
+        //41. First Missing Positive
+        /*int[] nums = {0,2,2,1,1};
+        int i = Solution41.firstMissingPositive(nums);
+        System.out.println(i);*/
+
+        //42. Trapping Rain Water
+        /*int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
+        int trap = Solution42.trap(height);
+        System.out.println(trap);*/
+
+        //43. Multiply Strings
+        /*String multiply = Solution43.multiply("1234444", "456565655656");
+        System.out.println(multiply);*/
+        /*String s = "" + 48;
+        System.out.println(s);*/
+        //个位数和String的乘法
+        /*String multiply = Solution43.multiply(2, "123456", 0);
+        System.out.println(multiply);*/
+        //两个string的加法
+        /*String add = Solution43.addStringNum("11111111", "111111111111111111111111111111111111111111111");
+        System.out.println(add);*/
+        //测试字符串乘法
+        /*String s = Solution43.multiply2("1234444", "456565655656");
+        System.out.println(s);*/
+
+        //49. Group Anagrams
+        //测试判断两个字符串是否相等
+        boolean match = Solution49.isMatch("boo", "bob");
+        System.out.println(match);
+
+        /*String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        List<List<String>> list = Solution49.groupAnagrams(strs);
+        System.out.println(list.toString());*/
+
+
     }
 }
