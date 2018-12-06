@@ -45,4 +45,9 @@ public class SolutionBook12 {
         flag[index] = false;
         return false;
     }
+
+    public static void main(String[] args) {
+        System.out.println(111);
+    }
+
 }
