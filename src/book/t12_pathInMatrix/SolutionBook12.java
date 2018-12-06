@@ -26,6 +26,7 @@ public class SolutionBook12 {
 
     /**
      * 1. 矩阵是用字符串表示的，因此matrix[i][j]==matrix[i*cols + rows]
+     * 2. k是目标字符串中的数字的下标
      * */
     private static boolean helper(char[] matrix, int rows, int cols, int i, int j, char[] str, int k, boolean[] flag){
         int index = i * cols + j;
@@ -46,8 +47,5 @@ public class SolutionBook12 {
         return false;
     }
 
-    public static void main(String[] args) {
-        System.out.println(111);
-    }
 
 }
