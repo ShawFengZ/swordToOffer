@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../../o2oZxf/src/main/java/com/zxf/service/impl/ShopServiceImpl.java" description="int rowIndex = PageCalculator.calculateRowIndex(pa..." line="132" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="" />
+    <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/LeetCodeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LeetCodeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t10_RectCover/Solution10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t11_numberof1/Solution11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t12_power/Solution12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t13_reOrderArray/Solution13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t14_findKthToTail/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t14_findKthToTail/Solution14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t15_reverseList/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t15_reverseList/Solution15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t16_mergeList/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t16_mergeList/Solution16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t20_PrintFromTopToBottom/Solution20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t20_PrintFromTopToBottom/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t27_permutation/Solution27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t28_moreThanHalfNum_Solution/Solution28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t29_getLeastNumbers/Solution29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t2_tihuankongge/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t30_findGreatestSumOfSubArray/Solution30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t3_fandaList/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t3_fandaList/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t4_reConstructBinaryTree/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t4_reConstructBinaryTree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t6_minNumberInRotateArray/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t7_fibonacci/Solution7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t8_jumpFloor/Solution8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t9_jumpFloor2/Solution9.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +47,38 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T11_numberOf1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T12_power.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,24 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/t41_FirstMissingPositive.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Solution41.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t39_CombinationSum/Solution39.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t41_FirstMissingPositive/Solution41.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t42_TrappingRainWater/Solution42.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t43_MultiplyStrings/Solution43.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t44_WildcardMatching/Solution44.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t46_Permutations/Solution46.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LeetCodeMain.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/t49_GroupAnagrams/Solution49.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t4_MidianOfTwoSortedArrays/SolutionD04.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t5_LongestPalindromicSubString/SolutionD05.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t8_StringToInteger/SolutionD08.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t24_SwapNodesInPairs.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/SolutionD24.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t24_SwapNodesInPairs/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/leetcodeDifficult/t24_SwapNodesInPairs/SolutionD24.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t01_FindInMatrix/SolutionS201.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t02_ReplaceSpace/SolutionS02.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t03_PrintListFromTail/ListNode.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t03_PrintListFromTail/SolutionS03.java" />
@@ -63,7 +101,6 @@
         <option value="$PROJECT_DIR$/src/swordToOffer2/t04_ReConstructBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t04_ReConstructBinaryTree/SolutionS204.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t05_2StackToQueue/SolutionS205.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t07_Fibonacci/SolutionS207.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t08_JumpFloor/SolutionS208.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t09_JumpFloorII/SolutionS208.java" />
@@ -89,22 +126,32 @@
         <option value="$PROJECT_DIR$/src/swordToOffer2/t23_VerifySquenceOfBST/SolutionS223.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t24_FindPath/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t24_FindPath/SolutionS224.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCodeMain.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/t1_findInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T1_findInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T2_replaceSpace.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T3_printListFromTail.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/utils/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T4_reconstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T5_2StackToQueue.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T6_minNumInRotateArray.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T7_fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T8_jumpFloor.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T9_JumpFloorII.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T10_rectCover.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T11_numberOf1.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T12.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T12_power.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/Test.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -115,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,27 +178,49 @@
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="swordToOffer2" type="462c0819:PsiDirectoryNode" />
+              <item name="t03_PrintListFromTail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer2" type="462c0819:PsiDirectoryNode" />
+              <item name="t06_minNumberInRotateArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer3" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/project/algorithm/swordToOffer/src/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shangxinLittle" />
+    <property name="last_opened_file_path" value="E:/shangxinLittle" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -179,26 +247,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolutionS224">
-    <configuration name="SolutionS220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordToOffer2.t20_MinFunctionStack.SolutionS220" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="SolutionS206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer2.t06_minNumberInRotateArray.SolutionS206" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordToOffer2.t20_MinFunctionStack.*" />
+          <option name="PATTERN" value="swordToOffer2.t06_minNumberInRotateArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="SolutionS221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordToOffer2.t21_IsPopOrder.SolutionS221" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swordToOffer2.t21_IsPopOrder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SolutionS222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swordToOffer2.t22_PrintFromTopToBottom.SolutionS222" />
@@ -209,6 +270,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SolutionS223" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swordToOffer2.t23_VerifySquenceOfBST.SolutionS223" />
@@ -219,6 +283,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SolutionS224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swordToOffer2.t24_FindPath.SolutionS224" />
@@ -229,21 +296,37 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer3.Test" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SolutionS220" />
-      <item itemvalue="Application.SolutionS221" />
       <item itemvalue="Application.SolutionS222" />
       <item itemvalue="Application.SolutionS223" />
       <item itemvalue="Application.SolutionS224" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SolutionS206" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SolutionS206" />
         <item itemvalue="Application.SolutionS224" />
         <item itemvalue="Application.SolutionS223" />
         <item itemvalue="Application.SolutionS222" />
-        <item itemvalue="Application.SolutionS221" />
-        <item itemvalue="Application.SolutionS220" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +372,7 @@
       <workItem from="1540256630916" duration="9378000" />
       <workItem from="1540274984273" duration="16000" />
       <workItem from="1540342689835" duration="10886000" />
+      <workItem from="1575459776457" duration="6047000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -455,47 +539,47 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365647000" />
+    <option name="totallyTimeSpent" value="371694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827735" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3289689" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18634886" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20856912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40520042" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3143872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40520042" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3268206" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learning dataStructure and  algorithm" />
@@ -550,157 +634,13 @@
           <option name="timeStamp" value="456" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="500" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t38_CountAndSay/Solution38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t39_CombinationSum/Solution39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t41_FirstMissingPositive/Solution41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t42_TrappingRainWater/Solution42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t43_MultiplyStrings/Solution43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1301">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t44_WildcardMatching/Solution44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t46_Permutations/Solution46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/t49_GroupAnagrams/Solution49.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcodeDifficult/t4_MidianOfTwoSortedArrays/SolutionD04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcodeDifficult/t8_StringToInteger/SolutionD08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcodeDifficult/t5_LongestPalindromicSubString/SolutionD05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcodeDifficult/t24_SwapNodesInPairs/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcodeDifficult/t24_SwapNodesInPairs/SolutionD24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="8" selection-end-line="41" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCodeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="249" column="39" selection-start-line="249" selection-start-column="39" selection-end-line="249" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/t4_2demensionalSearch/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t02_ReplaceSpace/SolutionS02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t03_PrintListFromTail/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t04_ReConstructBinaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t05_2StackToQueue/SolutionS205.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t04_ReConstructBinaryTree/SolutionS204.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t03_PrintListFromTail/SolutionS203.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t01_FindInMatrix/SolutionS201.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -785,13 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t17_HasSubtree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -871,6 +804,179 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/t3_duplicateNumberInArr/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCodeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5899">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t01_FindInMatrix/SolutionS201.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-848">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T1_findInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="199" column="29" selection-start-line="199" selection-start-column="29" selection-end-line="199" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t02_ReplaceSpace/SolutionS02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T2_replaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/utils/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t03_PrintListFromTail/SolutionS203.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T3_printListFromTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/utils/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T4_reconstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T5_2StackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="e#93#102#0" expanded="true" />
+            <element signature="e#143#152#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T6_minNumInRotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T8_jumpFloor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T7_fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T9_JumpFloorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T10_rectCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t06_minNumberInRotateArray/SolutionS206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T11_numberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T12_power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>

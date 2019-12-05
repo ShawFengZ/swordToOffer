@@ -10,7 +10,7 @@ public class SolutionS206 {
      *      求旋转数组中的最小的元素。
      * 思路：二分法
      *      1. array[mid]一定是一边是升序，另一边是旋转数组
-     *      2. min数字一定再旋转数组那边
+     *      2. min数字一定在旋转数组那边
      * */
     public static int minNumberInRotateArray(int [] array) {
         if (array==null || array.length == 0)
@@ -28,7 +28,7 @@ public class SolutionS206 {
     }
 
     public static void main(String[] args) {
-        int[] array = {5,5,6,7,9,1,2,3,4};
+        int[] array = {1,1,1,1,1,2,1};
         System.out.println(minNumberInRotateArray(array));
     }
 }

@@ -5,7 +5,6 @@ import leetcode.t41_FirstMissingPositive.Solution41;
 import leetcode.t42_TrappingRainWater.Solution42;
 import leetcode.t43_MultiplyStrings.Solution43;
 import leetcode.t49_GroupAnagrams.Solution49;
-import t6_minNumberInRotateArray.Solution;
 
 import java.util.ArrayList;
 import java.util.List;
