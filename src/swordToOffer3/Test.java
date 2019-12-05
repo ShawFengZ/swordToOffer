@@ -2,13 +2,22 @@ package swordToOffer3;
 
 
 import swordToOffer3.utils.ListNode;
+import swordToOffer3.utils.TreeNode;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Test {
 
     public static void main(String[] args) {
-        test12();
+
+        test20();
+        //test17();
+        //test16();
+        //test15();
+        //test14();
+        //test13();
+        //test12();
         //test10();
         //test9();
         //test7();
@@ -16,6 +25,65 @@ public class Test {
         //test2();
         //test1();
 
+    }
+
+    private static void test20() {
+        T20_minFunctionStack t20_minFunctionStack = new T20_minFunctionStack();
+        t20_minFunctionStack.push(3);
+        int min = t20_minFunctionStack.min();
+        System.out.print(min + " ");
+    }
+
+    private static void test17(){
+        TreeNode root1 = new TreeNode(1);
+        root1.left = new TreeNode(2);
+        root1.right = new TreeNode(3);
+        root1.left.left = new TreeNode(4);
+        TreeNode root2 = new TreeNode(3);
+        root2.left = new TreeNode(3);
+        boolean b = T17_hasSubtree.HasSubtree(root1, root2);
+        System.out.println(b);
+    }
+
+    private static void test16(){
+        ListNode list1 = new ListNode(1);
+        list1.next = new ListNode(3);
+        list1.next.next = new ListNode(5);
+        ListNode list2 = new ListNode(2);
+        list2.next = new ListNode(4);
+        list2.next.next = new ListNode(6);
+        ListNode merge = T16_merge.Merge(list1, list2);
+        while (merge != null) {
+            System.out.print(merge.val + " ");
+            merge = merge.next;
+        }
+    }
+
+    private static void test15(){
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        /*head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(4);*/
+        ListNode listNode = T15_reverseList.ReverseList(head);
+        while (listNode != null) {
+            System.out.print(listNode.val + " " );
+            listNode = listNode.next;
+        }
+    }
+
+    private static void test14(){
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(4);
+        ListNode listNode = T14_findKthToTail.FindKthToTail(head, 2);
+        System.out.println(listNode.val);
+    }
+
+    private static void test13(){
+        int[] array = {1, 2, 3, 4, 5};
+        T13_reOrderArray.reOrderArray(array);
+        System.out.println(Arrays.toString(array));
     }
 
     private static void test12(){
