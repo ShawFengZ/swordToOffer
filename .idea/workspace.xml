@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="new start for ms">
+    <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="add to 20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/swordToOffer3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swordToOffer3/Test.java" afterDir="false" />
     </list>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/swordToOffer3/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="-217">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,15 +35,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T20_minFunctionStack.java">
+        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T29_getLeastNumbers_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="108">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
               <folding>
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,13 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t07_Fibonacci/SolutionS207.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t08_JumpFloor/SolutionS208.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t09_JumpFloorII/SolutionS208.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t09_JumpFloorII/SolutionS209.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t10_RectCover/SolutionS210.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t11_NumOf1/SolutionS211.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer2/t12_Power/SolutionS212.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t13_ReOrderArray/SolutionS213.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t14_KthNodeInList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer2/t14_KthNodeInList/SolutionS214.java" />
@@ -113,9 +103,16 @@
         <option value="$PROJECT_DIR$/src/swordToOffer3/T15_reverseList.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T16_merge.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T17_hasSubtree.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/Test.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T18_mirror.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T20_minFunctionStack.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T21_ssPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T21_isPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T22_printFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T23_verifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/utils/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T25_randomListNodeClone.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/T29_getLeastNumbers_Solution.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/Test.java" />
       </list>
     </option>
   </component>
@@ -351,7 +348,7 @@
       <workItem from="1540274984273" duration="16000" />
       <workItem from="1540342689835" duration="10886000" />
       <workItem from="1575459776457" duration="6047000" />
-      <workItem from="1575513886690" duration="5434000" />
+      <workItem from="1575513886690" duration="12535000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -521,17 +518,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575514116573</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add to 20">
+      <created>1575543481735</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575543481735</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377128000" />
+    <option name="totallyTimeSpent" value="384229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21180275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21180275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -540,7 +544,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3143872" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3143872" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40520042" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,7 +595,8 @@
     <MESSAGE value="10.22刷题多道，加油！！！" />
     <MESSAGE value="10.23刷题多道，加油！！！" />
     <MESSAGE value="new start for ms" />
-    <option name="LAST_COMMIT_MESSAGE" value="new start for ms" />
+    <MESSAGE value="add to 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -624,30 +629,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t12_Power/SolutionS212.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t14_KthNodeInList.java" />
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t14_KthNodeInList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t14_KthNodeInList/SolutionS214.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t15_ReverseList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t16_MergeTwoLists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t16_MergeTwoLists/SolutionS216.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="871">
@@ -956,25 +937,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T20_minFunctionStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T21_isPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T22_printFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T20_minFunctionStack.java">
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T23_verifySquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="125">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/utils/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T25_randomListNodeClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T29_getLeastNumbers_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

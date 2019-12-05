@@ -2,6 +2,7 @@ package swordToOffer3;
 
 
 import swordToOffer3.utils.ListNode;
+import swordToOffer3.utils.RandomListNode;
 import swordToOffer3.utils.TreeNode;
 
 import java.util.ArrayList;
@@ -10,8 +11,11 @@ import java.util.Arrays;
 public class Test {
 
     public static void main(String[] args) {
-
-        test20();
+        test29();
+        //test25();
+        //test22();
+        //test21();
+        //test20();
         //test17();
         //test16();
         //test15();
@@ -25,6 +29,42 @@ public class Test {
         //test2();
         //test1();
 
+    }
+
+    private static void test29(){
+        int[] input = {4,5,1,6,2,7,3,8};
+        ArrayList<Integer> integers = T29_getLeastNumbers_Solution.GetLeastNumbers_Solution(input, 4);
+        System.out.println(integers);
+    }
+
+
+    private static void test25(){
+        RandomListNode pHead = new RandomListNode(1);
+        pHead.next = new RandomListNode(2);
+        pHead.next.next = new RandomListNode(3);
+        pHead.next.next.next = new RandomListNode(4);
+        pHead.next.random = pHead.next.next.next;
+        RandomListNode clone = T25_randomListNodeClone.Clone(pHead);
+        System.out.println(clone.label + " " +clone.next.label + " " +
+                clone.next.next.label + " " + clone.next.next.next.label
+                +" " + clone.next.random.label);
+    }
+
+    private static void test22(){
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(5);
+        ArrayList<Integer> integers = T22_printFromTopToBottom.PrintFromTopToBottom(root);
+        System.out.println(integers);
+    }
+
+    private static void test21(){
+        int[] pushA = {1,2,3,4,5};
+        int[] popA = {4,3,5,1,2};
+        boolean b = T21_isPopOrder.IsPopOrder(pushA, popA);
+        System.out.println(b);
     }
 
     private static void test20() {
