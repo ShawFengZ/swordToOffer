@@ -39,7 +39,18 @@ public class Test {
         //test44();
         //test49();
 
-        test58();
+        //test58();
+        test60();
+    }
+
+    private static void test60(){
+        TreeNode pRoot = new TreeNode(1);
+        pRoot.left = new TreeNode(2);
+        pRoot.right = new TreeNode(3);
+        pRoot.left.left = new TreeNode(4);
+
+        ArrayList<ArrayList<Integer>> print = T60_print.Print(pRoot);
+        System.out.println(print);
     }
 
     private static void test58(){
