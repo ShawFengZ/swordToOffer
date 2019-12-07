@@ -31,8 +31,64 @@ public class Test {
         //test2();
         //test1();
 
+        //test43();
+        //test42();
         //test40();
-        test37();
+        //test37();
+        //test36();
+        //test44();
+        //test49();
+
+        test58();
+    }
+
+    private static void test58(){
+        ListNode pHead = new ListNode(1);
+        pHead.next = new ListNode(2);
+        pHead.next.next = new ListNode(3);
+        pHead.next.next.next = new ListNode(3);
+        pHead.next.next.next.next = new ListNode(4);
+        pHead.next.next.next.next.next = new ListNode(4);
+        pHead.next.next.next.next.next.next = new ListNode(5);
+        ListNode listNode = T56_deleteDuplication.deleteDuplication(pHead);
+        while (listNode != null) {
+            System.out.print(listNode.val + " ");
+            listNode = listNode.next;
+        }
+    }
+
+    private static void test49(){
+        int i = T49_strToInt.StrToInt("-2147483648");
+        System.out.println(i);
+    }
+
+    private static void test44(){
+        String str = "student. a am I";
+        String s = T44_reverseSentence.ReverseSentence(str);
+        System.out.println(s);
+    }
+
+    private static void test43(){
+        String str = "abcXYZdef";
+        String s = T43_leftRotateString.LeftRotateString(str, 3);
+        System.out.println(s);
+    }
+
+    private static void test42(){
+        int[] array = {1,2,4,7,11,15};
+        ArrayList<Integer> integers = T42_findNumbersWithSum.FindNumbersWithSum(array, 15);
+        System.out.println(integers);
+    }
+
+    private static void test36(){
+        ListNode pHead1 = new ListNode(1);
+        pHead1.next = new ListNode(2);
+        pHead1.next.next = new ListNode(3);
+        ListNode pHead2 = new ListNode(1);
+        pHead2.next = new ListNode(4);
+        pHead2.next = pHead1.next.next;
+        ListNode listNode = T36_findFirstCommonNode.FindFirstCommonNode(pHead1, pHead2);
+        System.out.println(listNode.val);
     }
 
     private static void test37(){
