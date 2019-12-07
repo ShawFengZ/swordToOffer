@@ -11,7 +11,9 @@ import java.util.Arrays;
 public class Test {
 
     public static void main(String[] args) {
-        test29();
+
+        //test29();
+        //test28();
         //test25();
         //test22();
         //test21();
@@ -29,7 +31,25 @@ public class Test {
         //test2();
         //test1();
 
+        //test40();
+        test37();
     }
+
+    private static void test37(){
+        int[] array = {1, 2, 2, 3, 3, 3};
+        int i = T37_getNumberOfK.GetNumberOfK2(array, 3);
+        System.out.println(i);
+    }
+
+    private static void test40(){
+        int[] array = {1, 1, 2, 2, 3, 4};
+        int[] num1 = new int[1];
+        int[] num2 = new int[1];
+        T40_findNumsAppearOnce.FindNumsAppearOnce1(array, num1, num2);
+        System.out.println(num1[0]);
+        System.out.println(num2[0]);
+    }
+
 
     private static void test29(){
         int[] input = {4,5,1,6,2,7,3,8};
@@ -37,6 +57,11 @@ public class Test {
         System.out.println(integers);
     }
 
+    private static void test28(){
+        int[] array = {1,2,3,2,4,2,5,2,3};
+        int i = T28_moreThanHalfNum_Solution.MoreThanHalfNum_Solution(array);
+        System.out.println(i);
+    }
 
     private static void test25(){
         RandomListNode pHead = new RandomListNode(1);
