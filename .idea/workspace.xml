@@ -22,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T112_hasPathSum.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T144_preorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T113_pathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="25">
+              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,44 +34,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T114_flatten.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/hard/T199_rightSideView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T116_connect.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T222_countNodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-50">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T117_connectII.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T226_invertTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/utils/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="282">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -102,14 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T16_merge.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T17_hasSubtree.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T18_mirror.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T20_minFunctionStack.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T21_ssPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T21_isPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T22_printFromTopToBottom.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T23_verifySquenceOfBST.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/utils/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T25_randomListNodeClone.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T29_getLeastNumbers_Solution.java" />
@@ -153,6 +125,14 @@
         <option value="$PROJECT_DIR$/src/leetcode2/utils/Node.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T116_connect.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T117_connectII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T129_sumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T144_preorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T145_postorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T145_postorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T199_rightSideView.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/hard/T199_rightSideView.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T222_countNodes.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T226_invertTree.java" />
       </list>
     </option>
   </component>
@@ -258,13 +238,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T117_connectII">
-    <configuration name="T111_minDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.easy.T111_minDepth" />
+  <component name="RunManager" selected="Application.T226_invertTree">
+    <configuration name="T129_sumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T129_sumNumbers" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.tree.easy.*" />
+          <option name="PATTERN" value="leetcode2.tree.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T112_hasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T112_hasPathSum" />
+    <configuration name="T144_preorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.easy.T144_preorderTraversal" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.tree.easy.*" />
+          <option name="PATTERN" value="leetcode2.tree.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T114_flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.easy.T114_flatten" />
+    <configuration name="T145_postorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T145_postorderTraversal" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.tree.easy.*" />
+          <option name="PATTERN" value="leetcode2.tree.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,8 +278,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T116_connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T116_connect" />
+    <configuration name="T222_countNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T222_countNodes" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
@@ -311,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T117_connectII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T117_connectII" />
+    <configuration name="T226_invertTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.easy.T226_invertTree" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.tree.middle.*" />
+          <option name="PATTERN" value="leetcode2.tree.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,19 +305,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T111_minDepth" />
-      <item itemvalue="Application.T112_hasPathSum" />
-      <item itemvalue="Application.T114_flatten" />
-      <item itemvalue="Application.T116_connect" />
-      <item itemvalue="Application.T117_connectII" />
+      <item itemvalue="Application.T129_sumNumbers" />
+      <item itemvalue="Application.T144_preorderTraversal" />
+      <item itemvalue="Application.T145_postorderTraversal" />
+      <item itemvalue="Application.T222_countNodes" />
+      <item itemvalue="Application.T226_invertTree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T117_connectII" />
-        <item itemvalue="Application.T116_connect" />
-        <item itemvalue="Application.T114_flatten" />
-        <item itemvalue="Application.T112_hasPathSum" />
-        <item itemvalue="Application.T111_minDepth" />
+        <item itemvalue="Application.T226_invertTree" />
+        <item itemvalue="Application.T222_countNodes" />
+        <item itemvalue="Application.T145_postorderTraversal" />
+        <item itemvalue="Application.T144_preorderTraversal" />
+        <item itemvalue="Application.T129_sumNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +365,7 @@
       <workItem from="1540342689835" duration="10886000" />
       <workItem from="1575459776457" duration="6047000" />
       <workItem from="1575513886690" duration="31471000" />
-      <workItem from="1575799507093" duration="5801000" />
+      <workItem from="1575799507093" duration="11874000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -597,11 +577,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575799830257</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update">
+      <created>1575805367268</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1575805367268</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408966000" />
+    <option name="totallyTimeSpent" value="415039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -702,48 +689,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T14_findKthToTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T13_reOrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T15_reverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" column="27" selection-start-line="11" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T16_merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer2/t17_HasSubtree/SolutionS217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T17_hasSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T18_mirror.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -1124,8 +1069,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T117_connectII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="175">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T129_sumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T144_preorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T145_postorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="45" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/hard/T199_rightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T222_countNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T226_invertTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
