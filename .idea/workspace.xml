@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/leetcode2/tree/middle/T230_kthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swordToOffer3/hard/T19_printMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swordToOffer3/hard/T24_findPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swordToOffer3/hard/T26_convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swordToOffer3/hard/T4_reconstructBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer3/T4_reconstructBinaryTree.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,20 +29,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T235_lowestCommonAncestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="325">
               <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T236_lowestCommonAncestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="461">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/T26_convert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -60,10 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T28_moreThanHalfNum_Solution.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T31_numberOf1Between1AndN_Solution.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T32_printMinNumber.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T33_getUglyNumber_Solution.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T40_findNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T39_isBalanced_Solution.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T38_treeDepth.java" />
@@ -111,12 +120,15 @@
         <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T230_kthSmallest.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T235_lowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T236_lowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T4_reconstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T19_printMatrix.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T24_findPath.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T26_convert.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="150" />
+    <option name="y" value="6" />
     <option name="width" value="1938" />
     <option name="height" value="1044" />
   </component>
@@ -144,37 +156,14 @@
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer3" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,52 +205,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T235_lowestCommonAncestor">
-    <configuration name="T145_postorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T145_postorderTraversal" />
+  <component name="RunManager" selected="Application.T26_convert">
+    <configuration name="T19_printMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.T19_printMatrix" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.tree.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T222_countNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T222_countNodes" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.tree.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T226_invertTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.easy.T226_invertTree" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.tree.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T230_kthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.tree.middle.T230_kthSmallest" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.tree.middle.*" />
+          <option name="PATTERN" value="swordToOffer3.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,20 +232,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T24_findPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.T24_findPath" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer3.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T26_convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.T26_convert" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer3.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4_reconstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.T4_reconstructBinaryTree" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer3.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.T145_postorderTraversal" />
-      <item itemvalue="Application.T222_countNodes" />
-      <item itemvalue="Application.T226_invertTree" />
-      <item itemvalue="Application.T230_kthSmallest" />
       <item itemvalue="Application.T235_lowestCommonAncestor" />
+      <item itemvalue="Application.T4_reconstructBinaryTree" />
+      <item itemvalue="Application.T19_printMatrix" />
+      <item itemvalue="Application.T24_findPath" />
+      <item itemvalue="Application.T26_convert" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T26_convert" />
+        <item itemvalue="Application.T24_findPath" />
+        <item itemvalue="Application.T19_printMatrix" />
+        <item itemvalue="Application.T4_reconstructBinaryTree" />
         <item itemvalue="Application.T235_lowestCommonAncestor" />
-        <item itemvalue="Application.T230_kthSmallest" />
-        <item itemvalue="Application.T226_invertTree" />
-        <item itemvalue="Application.T222_countNodes" />
-        <item itemvalue="Application.T145_postorderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +332,8 @@
       <workItem from="1540342689835" duration="10886000" />
       <workItem from="1575459776457" duration="6047000" />
       <workItem from="1575513886690" duration="31471000" />
-      <workItem from="1575799507093" duration="14692000" />
+      <workItem from="1575799507093" duration="14815000" />
+      <workItem from="1575979466312" duration="6390000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -569,17 +559,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575811844580</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update">
+      <created>1575818156807</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1575818156807</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="417857000" />
+    <option name="totallyTimeSpent" value="424370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21503638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -588,8 +584,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31616342" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40520042" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31616342" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40497336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -674,45 +670,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T22_printFromTopToBottom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T23_verifySquenceOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/utils/RandomListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T25_randomListNodeClone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T29_getLeastNumbers_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -1097,18 +1054,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T235_lowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="325">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T236_lowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="461">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/T4_reconstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/T19_printMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/T24_findPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/T26_convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
