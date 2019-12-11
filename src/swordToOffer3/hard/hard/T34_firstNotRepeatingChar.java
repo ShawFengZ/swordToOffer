@@ -1,4 +1,4 @@
-package swordToOffer3.hard;
+package swordToOffer3.hard.hard;
 
 import java.util.ArrayList;
 import java.util.HashMap;

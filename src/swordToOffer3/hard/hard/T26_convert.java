@@ -1,4 +1,4 @@
-package swordToOffer3.hard;
+package swordToOffer3.hard.hard;
 
 import swordToOffer3.utils.TreeNode;
 
