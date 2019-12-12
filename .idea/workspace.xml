@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,19 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T19_removeNthFromEnd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="93">
+              <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T206_reverseList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T24_swapPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="93">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +43,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T61_rotateRight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ms/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="175">
+              <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="57" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,10 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T58_deleteDuplication.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/utils/TreeLinkNode.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T59_getNext.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/T57_getNext.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T58_isSymmetrical.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/Test.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/T60_print.java" />
@@ -119,9 +125,13 @@
         <option value="$PROJECT_DIR$/src/ms/ListNode.java" />
         <option value="$PROJECT_DIR$/src/ms/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/T2_addTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/utils/ListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/middle/T206_reverseList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/list/easy/T19_removeNthFromEnd.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/list/middle/T19_removeNthFromEnd.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/list/middle/T24_swapPairs.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/list/easy/T61_rotateRight.java" />
       </list>
     </option>
   </component>
@@ -171,13 +181,23 @@
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="middle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,13 +237,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T206_reverseList">
-    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ms.ReverseList" />
+  <component name="RunManager" selected="Application.T61_rotateRight">
+    <configuration name="T19_removeNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.list.middle.T19_removeNthFromEnd" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ms.*" />
+          <option name="PATTERN" value="leetcode2.list.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T34_firstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.hard.T34_firstNotRepeatingChar" />
+    <configuration name="T24_swapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.list.middle.T24_swapPairs" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordToOffer3.hard.hard.*" />
+          <option name="PATTERN" value="leetcode2.list.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T40_findNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.hard.T40_findNumsAppearOnce" />
+    <configuration name="T2_addTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.list.easy.T2_addTwoNumbers" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordToOffer3.hard.hard.*" />
+          <option name="PATTERN" value="leetcode2.list.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T45_isContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordToOffer3.hard.T45_isContinuous" />
+    <configuration name="T61_rotateRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.list.easy.T61_rotateRight" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordToOffer3.hard.*" />
+          <option name="PATTERN" value="leetcode2.list.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T34_firstNotRepeatingChar" />
-      <item itemvalue="Application.T40_findNumsAppearOnce" />
-      <item itemvalue="Application.T45_isContinuous" />
-      <item itemvalue="Application.ReverseList" />
       <item itemvalue="Application.T206_reverseList" />
+      <item itemvalue="Application.T2_addTwoNumbers" />
+      <item itemvalue="Application.T19_removeNthFromEnd" />
+      <item itemvalue="Application.T24_swapPairs" />
+      <item itemvalue="Application.T61_rotateRight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T61_rotateRight" />
+        <item itemvalue="Application.T24_swapPairs" />
+        <item itemvalue="Application.T19_removeNthFromEnd" />
+        <item itemvalue="Application.T2_addTwoNumbers" />
         <item itemvalue="Application.T206_reverseList" />
-        <item itemvalue="Application.ReverseList" />
-        <item itemvalue="Application.T45_isContinuous" />
-        <item itemvalue="Application.T40_findNumsAppearOnce" />
-        <item itemvalue="Application.T34_firstNotRepeatingChar" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +366,7 @@
       <workItem from="1575513886690" duration="31471000" />
       <workItem from="1575799507093" duration="14815000" />
       <workItem from="1575979466312" duration="15907000" />
-      <workItem from="1576122719518" duration="5177000" />
+      <workItem from="1576122719518" duration="8913000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -600,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576073603454</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="update">
+      <created>1576133503254</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133503254</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="439064000" />
+    <option name="totallyTimeSpent" value="442800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -705,30 +732,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T49_strToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T50_duplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T55_entryNodeOfLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer3/T51_multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -1109,13 +1112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/utils/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1126,23 +1122,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ms/ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T206_reverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="250">
+          <caret line="63" column="18" selection-start-line="55" selection-start-column="8" selection-end-line="71" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T206_reverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T2_addTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ms/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="57" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T19_removeNthFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T24_swapPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T61_rotateRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
