@@ -11,6 +11,17 @@ public class T92_reverseBetween {
         if (head == null || head.next == null || m >= n) {
             return head;
         }
+        ListNode p = head;
+        ListNode end, start;//前一段的尾节点和后一段的头节点
+        ListNode rs, re;
+        int cnt = 1;
+        while (p != null && p.next != null) {
+            if (cnt+1==m) {
+                end = p;
+                rs = p.next;
+            }
+
+        }
         return null;
     }
 }
