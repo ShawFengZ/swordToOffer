@@ -22,34 +22,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/hard/T1019_nextLargerNodes.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/hard/T687_longestUnivaluePath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="580">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/hard/T445_addTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T283_moveZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="113" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/list/hard/T817_numComponents.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T287_findDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="-225">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
               <folding>
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,14 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T145_postorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T145_postorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T199_rightSideView.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/hard/T199_rightSideView.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T222_countNodes.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T226_invertTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T230_kthSmallest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/tree/easy/T235_lowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/tree/middle/T236_lowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T4_reconstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T19_printMatrix.java" />
@@ -123,6 +111,14 @@
         <option value="$PROJECT_DIR$/src/leetcode2/list/hard/T1019_nextLargerNodes.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/hard/T445_addTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/hard/T817_numComponents.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/stack/easy/T20_isValid.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/stack/hard/T42_trap.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/stack/middle/T71_simplifyPath.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/stack/hard/T84_largestRectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/recursion/hard/T687_longestUnivaluePath.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/twoPointers/easy/T283_moveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T283_moveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T287_findDuplicate.java" />
       </list>
     </option>
   </component>
@@ -164,23 +160,23 @@
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="twoPointers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
+              <item name="twoPointers" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="twoPointers" type="462c0819:PsiDirectoryNode" />
+              <item name="middle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
@@ -227,13 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T445_addTwoNumbers">
-    <configuration name="T1019_nextLargerNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.list.hard.T1019_nextLargerNodes" />
+  <component name="RunManager" selected="Application.T287_findDuplicate">
+    <configuration name="T283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.twoPointers.middle.T283_moveZeroes" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.list.hard.*" />
+          <option name="PATTERN" value="leetcode2.twoPointers.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T138_copyRandomList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.list.middle.T138_copyRandomList" />
+    <configuration name="T287_findDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.twoPointers.middle.T287_findDuplicate" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.list.hard.*" />
+          <option name="PATTERN" value="leetcode2.twoPointers.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,25 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T143_reorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.list.middle.T143_reorderList" />
+    <configuration name="T42_trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.stack.hard.T42_trap" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2.list.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T147_insertionSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.list.hard.T147_insertionSortList" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.list.hard.*" />
+          <option name="PATTERN" value="leetcode2.stack.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,20 +276,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T71_simplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.stack.middle.T71_simplifyPath" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode2.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.T138_copyRandomList" />
-      <item itemvalue="Application.T143_reorderList" />
-      <item itemvalue="Application.T147_insertionSortList" />
-      <item itemvalue="Application.T1019_nextLargerNodes" />
       <item itemvalue="Application.T445_addTwoNumbers" />
+      <item itemvalue="Application.T42_trap" />
+      <item itemvalue="Application.T71_simplifyPath" />
+      <item itemvalue="Application.T283_moveZeroes" />
+      <item itemvalue="Application.T287_findDuplicate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T287_findDuplicate" />
+        <item itemvalue="Application.T283_moveZeroes" />
+        <item itemvalue="Application.T71_simplifyPath" />
+        <item itemvalue="Application.T42_trap" />
         <item itemvalue="Application.T445_addTwoNumbers" />
-        <item itemvalue="Application.T1019_nextLargerNodes" />
-        <item itemvalue="Application.T147_insertionSortList" />
-        <item itemvalue="Application.T143_reorderList" />
-        <item itemvalue="Application.T138_copyRandomList" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +352,7 @@
       <workItem from="1575513886690" duration="31471000" />
       <workItem from="1575799507093" duration="14815000" />
       <workItem from="1575979466312" duration="15907000" />
-      <workItem from="1576122719518" duration="29638000" />
+      <workItem from="1576122719518" duration="35005000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -645,17 +641,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576223031629</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update">
+      <created>1576238770290</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1576238770290</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="463525000" />
+    <option name="totallyTimeSpent" value="468892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29668552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29668552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -664,7 +667,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20781527" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3197158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40497336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -750,66 +753,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T117_connectII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T129_sumNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T144_preorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T145_postorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="45" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/hard/T199_rightSideView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T222_countNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/easy/T226_invertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/tree/middle/T230_kthSmallest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1176,11 +1119,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/list/hard/T817_numComponents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="243">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#354#355#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/easy/T20_isValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/hard/T42_trap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/hard/T84_largestRectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/middle/T71_simplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/hard/T687_longestUnivaluePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T283_moveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/twoPointers/middle/T287_findDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
