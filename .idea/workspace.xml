@@ -21,11 +21,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/middle/T636_exclusiveTime.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/easy/T938_rangeSumBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="80">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/middle/T894_allPossibleFBT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/utils/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -48,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/hard/T26_convert.java" />
-        <option value="$PROJECT_DIR$/src/swordToOffer3/hard/T45_isContinuous.java" />
-        <option value="$PROJECT_DIR$/src/ms/ListNode.java" />
         <option value="$PROJECT_DIR$/src/ms/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/T2_addTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/utils/ListNode.java" />
@@ -99,13 +120,16 @@
         <option value="$PROJECT_DIR$/src/leetcode2/stack/middle/T496_nextGreaterElement.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/stack/middle/T503_nextGreaterElements.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/stack/middle/T636_exclusiveTime.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/recursion/utils/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/recursion/easy/T938_rangeSumBST.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/recursion/middle/T894_allPossibleFBT.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="940" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="939" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,22 +164,7 @@
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,26 +204,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T503_nextGreaterElements">
+  <component name="RunManager" selected="Application.T938_rangeSumBST">
     <configuration name="T402_removeKdigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode2.stack.hard.T402_removeKdigits" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode2.stack.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T457_circularArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.twoPointers.hard.T457_circularArrayLoop" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.twoPointers.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,20 +257,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T938_rangeSumBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.recursion.easy.T938_rangeSumBST" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode2.recursion.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.T457_circularArrayLoop" />
       <item itemvalue="Application.T84_largestRectangleArea" />
       <item itemvalue="Application.T402_removeKdigits" />
       <item itemvalue="Application.T496_nextGreaterElement" />
       <item itemvalue="Application.T503_nextGreaterElements" />
+      <item itemvalue="Application.T938_rangeSumBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T938_rangeSumBST" />
         <item itemvalue="Application.T503_nextGreaterElements" />
         <item itemvalue="Application.T496_nextGreaterElement" />
         <item itemvalue="Application.T402_removeKdigits" />
         <item itemvalue="Application.T84_largestRectangleArea" />
-        <item itemvalue="Application.T457_circularArrayLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +335,7 @@
       <workItem from="1575979466312" duration="15907000" />
       <workItem from="1576122719518" duration="37682000" />
       <workItem from="1576477617348" duration="7612000" />
-      <workItem from="1576492393617" duration="4819000" />
+      <workItem from="1576492393617" duration="7177000" />
     </task>
     <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
       <created>1536133004101</created>
@@ -643,11 +652,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576492618772</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="update">
+      <created>1576497290403</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1576497290403</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484000000" />
+    <option name="totallyTimeSpent" value="486358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -662,7 +678,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3197158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3197158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40497336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -748,30 +764,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/hard/T35_inversePairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/hard/T40_findNumsAppearOnce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/hard/T27_permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swordToOffer3/hard/hard/T34_firstNotRepeatingChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1157,7 +1149,34 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode2/stack/middle/T636_exclusiveTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/utils/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/easy/T938_rangeSumBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/recursion/middle/T894_allPossibleFBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
