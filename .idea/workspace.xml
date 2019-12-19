@@ -21,15 +21,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T279_numSquares.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="205">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T313_nthSuperUglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T264_nthUglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode2/list/middle/T237_deleteNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/middle/T328_oddEvenList.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/easy/T876_middleNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/list/utils/Node.java" />
@@ -103,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/leetcode2/math/middle/T264_nthUglyNumber.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/math/middle/T268_missingNumber.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/math/middle/T279_numSquares.java" />
+        <option value="$PROJECT_DIR$/src/leetcode2/math/middle/T313_nthSuperUglyNumber.java" />
       </list>
     </option>
   </component>
@@ -206,20 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T268_missingNumber">
-    <configuration name="T231_isPowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2.math.easy.T231_isPowerOfTwo" />
-      <module name="swordToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode2.math.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T313_nthSuperUglyNumber">
     <configuration name="T258_addDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode2.math.easy.T258_addDigits" />
       <module name="swordToOffer" />
@@ -272,20 +277,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T313_nthSuperUglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2.math.middle.T313_nthSuperUglyNumber" />
+      <module name="swordToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode2.math.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.T231_isPowerOfTwo" />
       <item itemvalue="Application.T258_addDigits" />
       <item itemvalue="Application.T263_isUgly" />
       <item itemvalue="Application.T264_nthUglyNumber" />
       <item itemvalue="Application.T268_missingNumber" />
+      <item itemvalue="Application.T313_nthSuperUglyNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T313_nthSuperUglyNumber" />
         <item itemvalue="Application.T268_missingNumber" />
         <item itemvalue="Application.T264_nthUglyNumber" />
         <item itemvalue="Application.T263_isUgly" />
         <item itemvalue="Application.T258_addDigits" />
-        <item itemvalue="Application.T231_isPowerOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -338,14 +356,7 @@
       <workItem from="1576122719518" duration="37682000" />
       <workItem from="1576477617348" duration="7612000" />
       <workItem from="1576492393617" duration="7177000" />
-      <workItem from="1576673048049" duration="14938000" />
-    </task>
-    <task id="LOCAL-00001" summary="learning dataStructure and  algorithm">
-      <created>1536133004101</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1536133004101</updated>
+      <workItem from="1576673048049" duration="19436000" />
     </task>
     <task id="LOCAL-00002" summary="delete duplicate node in a list">
       <created>1536212177532</created>
@@ -683,17 +694,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576746817490</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update">
+      <created>1576753426419</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1576753426420</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="501296000" />
+    <option name="totallyTimeSpent" value="505794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.2934519" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.2934519" />
       <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.30153596" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -702,7 +720,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3197158" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3197158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40497336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -788,13 +806,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/list/middle/T328_oddEvenList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/list/easy/T876_middleNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1165,13 +1176,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T264_nthUglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T268_missingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1184,12 +1188,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T279_numSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="205">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#207#208#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T264_nthUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/math/middle/T313_nthSuperUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
