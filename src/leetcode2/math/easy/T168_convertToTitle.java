@@ -65,7 +65,7 @@ public class T168_convertToTitle {
     }
 
     public static void main(String[] args) {
-        String convertToTitle = convertToTitle2(52);
+        String convertToTitle = convertToTitle2(152);
         System.out.println(convertToTitle);
     }
 }
