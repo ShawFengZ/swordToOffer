@@ -1,4 +1,4 @@
-package leetcode2.dp.middle;
+package leetcode2.dp.easy;
 
 import leetcode2.dp.utils.NumArray;
 
