@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/easy/T21_mergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/easy/T26_removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/easy/T27_removeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/easy/T28_strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/middle/T22_generateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode3/page2/utils/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,40 +28,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/easy/T20_isValid.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T26_removeDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="200">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T04_findMedianSortedArrays.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T27_removeElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T05_longestPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-400">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="150">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T06_convert.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T28_strStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="130">
+              <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="40" />
               <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,9 +63,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Singleton" />
         <option value="Kotlin File" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -79,12 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T53_maxSubArray.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T62_uniquePaths.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T63_uniquePathsWithObstacles.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T64_minPathSum.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/easy/T70_climbStairs.java" />
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/hard/T72_minDistance.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/hard/T85_maximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T96_numTrees.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T95_generateTrees.java" />
@@ -130,6 +121,12 @@
         <option value="$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T04_findMedianSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T05_longestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T06_convert.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/easy/T21_mergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/middle/T22_generateParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/easy/T26_removeDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/easy/T27_removeElement.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page2/easy/T28_strStr.java" />
       </list>
     </option>
   </component>
@@ -175,15 +172,15 @@
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode3" type="462c0819:PsiDirectoryNode" />
-              <item name="page1" type="462c0819:PsiDirectoryNode" />
+              <item name="page2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode3" type="462c0819:PsiDirectoryNode" />
-              <item name="page1" type="462c0819:PsiDirectoryNode" />
-              <item name="hardToUnderstand" type="462c0819:PsiDirectoryNode" />
+              <item name="page2" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,13 +226,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T05_longestPalindrome">
-    <configuration name="T05_longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page1.hardToUnderstand.T05_longestPalindrome" />
+  <component name="RunManager" selected="Application.T28_strStr">
+    <configuration name="T21_mergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.easy.T21_mergeTwoLists" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page1.hardToUnderstand.*" />
+          <option name="PATTERN" value="leetcode3.page2.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T17_letterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page1.hard.T17_letterCombinations" />
+    <configuration name="T22_generateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.middle.T22_generateParenthesis" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page1.hard.*" />
+          <option name="PATTERN" value="leetcode3.page2.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T18_fourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page1.middle.T18_fourSum" />
+    <configuration name="T26_removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.easy.T26_removeDuplicates" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page1.middle.*" />
+          <option name="PATTERN" value="leetcode3.page2.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T19_removeNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page1.middle.T19_removeNthFromEnd" />
+    <configuration name="T27_removeElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.easy.T27_removeElement" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page1.middle.*" />
+          <option name="PATTERN" value="leetcode3.page2.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T20_isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page1.easy.T20_isValid" />
+    <configuration name="T28_strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.easy.T28_strStr" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page1.easy.*" />
+          <option name="PATTERN" value="leetcode3.page2.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T17_letterCombinations" />
-      <item itemvalue="Application.T18_fourSum" />
-      <item itemvalue="Application.T19_removeNthFromEnd" />
-      <item itemvalue="Application.T20_isValid" />
-      <item itemvalue="Application.T05_longestPalindrome" />
+      <item itemvalue="Application.T21_mergeTwoLists" />
+      <item itemvalue="Application.T22_generateParenthesis" />
+      <item itemvalue="Application.T26_removeDuplicates" />
+      <item itemvalue="Application.T27_removeElement" />
+      <item itemvalue="Application.T28_strStr" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T05_longestPalindrome" />
-        <item itemvalue="Application.T20_isValid" />
-        <item itemvalue="Application.T19_removeNthFromEnd" />
-        <item itemvalue="Application.T18_fourSum" />
-        <item itemvalue="Application.T17_letterCombinations" />
+        <item itemvalue="Application.T28_strStr" />
+        <item itemvalue="Application.T27_removeElement" />
+        <item itemvalue="Application.T26_removeDuplicates" />
+        <item itemvalue="Application.T22_generateParenthesis" />
+        <item itemvalue="Application.T21_mergeTwoLists" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +359,7 @@
       <workItem from="1576477617348" duration="7612000" />
       <workItem from="1576492393617" duration="7177000" />
       <workItem from="1576673048049" duration="67934000" />
-      <workItem from="1577272353525" duration="19059000" />
-    </task>
-    <task id="LOCAL-00019" summary="数据流中的中位数，采用堆的方式">
-      <created>1538980346961</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1538980346961</updated>
+      <workItem from="1577272353525" duration="23392000" />
     </task>
     <task id="LOCAL-00020" summary="连续子数组的最大和">
       <created>1538982548793</created>
@@ -707,15 +697,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577452191335</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="update">
+      <created>1577454672186</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1577454672186</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="573351000" />
+    <option name="totallyTimeSpent" value="577684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.29102668" />
       <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.30153596" />
@@ -818,49 +814,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T62_uniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T63_uniquePathsWithObstacles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T64_minPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/easy/T70_climbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/hard/T85_maximalRectangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/hard/T72_minDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T96_numTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T95_generateTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1020,13 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/utils/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1219,11 +1165,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/hardToUnderstand/T06_convert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page1/utils/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/utils/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T21_mergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode2/backtrack/middle/T22_generateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/middle/T22_generateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T26_removeDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T27_removeElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page2/easy/T28_strStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
           </folding>
         </state>
       </provider>
