@@ -1,5 +1,8 @@
 package leetcode3.page4.easy;
 
+import java.util.ArrayDeque;
+import java.util.Queue;
+
 public class T67_addBinary {
 
     private static String addBinary(String a, String b) {
@@ -47,7 +50,7 @@ public class T67_addBinary {
 
     public static void main(String[] args) {
         String s = addBinary("11", "1");
-
+        Queue<Integer> queue = new ArrayDeque<>();
         System.out.println(s);
     }
 }
