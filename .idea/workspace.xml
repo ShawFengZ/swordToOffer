@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09cd4d4a-524e-4e11-b031-fa8bd1ba8ac9" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode3/page4/easy/T67_addBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode3/page4/easy/T67_addBinary.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,14 +60,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode3/page6/middle/Solution117.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="661">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
               <folding>
                 <element signature="e#182#183#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode2/dp/utils/NumArray.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/middle/T303_sumRange.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/utils/NumMatrix.java" />
         <option value="$PROJECT_DIR$/src/leetcode2/dp/easy/T304_NumMatrix.java" />
@@ -143,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/leetcode3/page4/middle/T73_searchMatrix.java" />
         <option value="$PROJECT_DIR$/src/leetcode3/page4/easy/T67_addBinary.java" />
         <option value="$PROJECT_DIR$/src/leetcode3/page6/middle/Solution117.java" />
+        <option value="$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -188,14 +199,7 @@
               <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode3" type="462c0819:PsiDirectoryNode" />
-              <item name="page4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode3" type="462c0819:PsiDirectoryNode" />
-              <item name="page6" type="462c0819:PsiDirectoryNode" />
+              <item name="page8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution117">
+  <component name="RunManager" selected="Application.T145_postorderTraversal">
     <configuration name="Solution117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode3.page6.middle.Solution117" />
       <module name="swordToOffer" />
@@ -255,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T24_swapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode3.page2.middle.T24_swapPairs" />
+    <configuration name="T145_postorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode3.page8.hard.T145_postorderTraversal" />
       <module name="swordToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode3.page2.middle.*" />
+          <option name="PATTERN" value="leetcode3.page8.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T24_swapPairs" />
       <item itemvalue="Application.T55_canJump" />
       <item itemvalue="Application.T71_simplifyPath" />
       <item itemvalue="Application.T67_addBinary" />
       <item itemvalue="Application.Solution117" />
+      <item itemvalue="Application.T145_postorderTraversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T145_postorderTraversal" />
         <item itemvalue="Application.Solution117" />
         <item itemvalue="Application.T67_addBinary" />
         <item itemvalue="Application.T71_simplifyPath" />
         <item itemvalue="Application.T55_canJump" />
-        <item itemvalue="Application.T24_swapPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -382,13 +386,7 @@
       <workItem from="1580865076816" duration="10579000" />
       <workItem from="1581474646344" duration="567000" />
       <workItem from="1581502210522" duration="284000" />
-    </task>
-    <task id="LOCAL-00023" summary="10.23刷题多道，加油！！！">
-      <created>1540273308128</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1540273308128</updated>
+      <workItem from="1581517605153" duration="322000" />
     </task>
     <task id="LOCAL-00024" summary="new start for ms">
       <created>1575514116573</created>
@@ -726,17 +724,24 @@
       <option name="project" value="LOCAL" />
       <updated>1581125499463</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="update">
+      <created>1581517655685</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1581517655686</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="594933000" />
+    <option name="totallyTimeSpent" value="595255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.28698465" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.2918351" />
       <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.30153596" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -845,17 +850,36 @@
           <properties />
           <option name="timeStamp" value="464" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java</url>
+          <line>18</line>
+          <properties class="leetcode3.page8.hard.T145_postorderTraversal" method="postorderTraversal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/utils/NumMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode2/dp/middle/T309_maxProfit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1264,11 +1288,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode3/page6/middle/Solution117.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="661">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
           <folding>
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode3/page8/hard/T145_postorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
