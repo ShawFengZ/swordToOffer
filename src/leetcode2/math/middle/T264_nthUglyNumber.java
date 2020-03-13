@@ -50,6 +50,7 @@ public class T264_nthUglyNumber {
             if (dp[i] == t5) {
                 l5++;
             }
+
         }
         return dp[n-1];
     }
@@ -57,5 +58,10 @@ public class T264_nthUglyNumber {
     public static void main(String[] args) {
         int i = nthUglyNumber2(10);
         System.out.println(i);
+
+
+
     }
+
+
 }
